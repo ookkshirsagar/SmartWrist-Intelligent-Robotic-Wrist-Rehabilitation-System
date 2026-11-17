@@ -1,4 +1,4 @@
-# Wrist Rehabilitation Robot
+# SmartWrist – Intelligent Robotic Wrist Rehabilitation System
 
 **Teleoperated, force-feedback wrist rehabilitation: a therapist's motion is mirrored to a patient-side actuator in real time, with resistance fed back the other way.**
 
